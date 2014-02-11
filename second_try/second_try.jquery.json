@@ -1,0 +1,26 @@
+{
+  "name": "second_try",
+  "title": "Second Try",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/zhangjingjing820/grunt-jquery",
+  "author": {
+    "name": "张晶晶",
+    "email": "jj520820@163.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangjingjing820/grunt-jquery.git"
+  },
+  "bugs": "https://github.com/zhangjingjing820/grunt-jquery/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/zhangjingjing820/grunt-jquery/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
